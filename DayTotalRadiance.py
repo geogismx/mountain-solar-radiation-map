@@ -31,22 +31,6 @@ def LevAstRad(sLat,jd):
     return result
 
 
-#if __name__ =='__main__':
-    #txtpath1 = 'C:\Users\George\Desktop\pythontest\CoeffAB.txt'
-    #txtpath2 = 'C:\Users\George\Desktop\pythontest\Coeff_ab.txt'
-    #folderpath = r'C:\Users\George\Desktop\pythontest\xianyang'
-    #GetCoeffAB(txtpath1)
-    #GetCoeffab(txtpath2)
-    #staID = GetCoeffab(txtpath2)
-    #getsunshinetime(folderpath,staID)
-    
 
-
-
-
-
-
-
-
-
+ 
 
